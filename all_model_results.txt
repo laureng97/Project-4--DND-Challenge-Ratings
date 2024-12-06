@@ -1,0 +1,108 @@
+Model: Ridge Regression
+Best Alpha: 0.1
+Mean Squared Error: 1.28
+R-Squared: 0.95935
+
+
+
+ridge = Ridge(max_iter=10000)  # Allow high iterations to ensure convergence
+
+# Define hyperparameter grid for alpha
+param_grid = {'alpha': [0.001, 0.01, 0.1, 1, 10, 100]}
+
+# Perform Grid Search with Cross-Validation
+grid_search = GridSearchCV(ridge, param_grid, scoring='r2', cv=5, n_jobs=-1)
+grid_search.fit(X_train, y_train)
+
+
+#############################################################################################
+
+Model: Lasso Regression
+Best Alpha: 0.01
+Mean Squared Error: 1.77
+R-Squared: 0.94383
+
+
+
+# Identify categorical and numeric columns
+categorical_columns = X.select_dtypes(include=['object']).columns
+numeric_columns = X.select_dtypes(include=['float64', 'int64']).columns
+
+# Create preprocessing pipelines for numeric and categorical data
+numeric_transformer = Pipeline(steps=[
+    ('scaler', StandardScaler())  # Scale numeric features
+])
+categorical_transformer = Pipeline(steps=[
+    ('onehot', OneHotEncoder(sparse_output=False, handle_unknown='ignore'))  # One-hot encode categorical features
+])
+
+# Combine preprocessors using ColumnTransformer
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_columns),
+        ('cat', categorical_transformer, categorical_columns)
+    ])
+
+# Create a pipeline with preprocessing and Lasso regression
+lasso_pipeline = Pipeline(steps=[
+    ('preprocessor', preprocessor),
+    ('lasso', Lasso(max_iter=10000))
+])
+
+# Define parameter grid for alpha values
+param_grid = {'lasso__alpha': [0.001, 0.01, 0.1, 1, 10, 100]}
+
+# Perform Grid Search with Cross-Validation
+grid_search = GridSearchCV(lasso_pipeline, param_grid, scoring='r2', cv=5, n_jobs=-1)
+grid_search.fit(X_train, y_train)
+
+
+#############################################################################################
+
+Model: ElasticNet Regression
+Best Alpha: 0.01
+Best L1 Ratio: 0.1
+Mean Squared Error: 1.27
+R-Squared: 0.95955
+
+
+
+# Identify categorical and numeric columns
+categorical_columns = X.select_dtypes(include=['object']).columns
+numeric_columns = X.select_dtypes(include=['float64', 'int64']).columns
+
+# Create preprocessing pipelines for numeric and categorical data
+numeric_transformer = Pipeline(steps=[
+    ('scaler', StandardScaler())  # Scale numeric features
+])
+categorical_transformer = Pipeline(steps=[
+    ('onehot', OneHotEncoder(sparse_output=False, handle_unknown='ignore'))  # One-hot encode categorical features
+])
+
+# Combine preprocessors using ColumnTransformer
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_columns),
+        ('cat', categorical_transformer, categorical_columns)
+    ])
+
+# Create a pipeline with preprocessing and ElasticNet regression
+elasticnet_pipeline = Pipeline(steps=[
+    ('preprocessor', preprocessor),
+    ('elasticnet', ElasticNet(max_iter=10000))
+])
+
+
+# Split data into training and testing sets
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Define parameter grid for alpha (strength) and l1_ratio (L1 vs L2 balance)
+param_grid = {
+    'elasticnet__alpha': [0.001, 0.01, 0.1, 1, 10],
+    'elasticnet__l1_ratio': [0.1, 0.5, 0.7, 1]  # 1 means pure Lasso, 0 means pure Ridge
+}
+
+# Perform Grid Search with Cross-Validation
+grid_search = GridSearchCV(elasticnet_pipeline, param_grid, scoring='r2', cv=5, n_jobs=-1) # Updated to use elasticnet_pipeline
+grid_search.fit(X_train, y_train)

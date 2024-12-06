@@ -8,7 +8,7 @@ This document hopes to catalog the testing and optimization of the machine learn
 
 ### Random Forest Model
 
-Initial Model Performance Results 
+Initial Model Performance Results  
 Mean Absolute Error (MAE): 0.8745576923076924  
 Mean Squared Error (MSE): 1.8194926682692307  
 R² Score: 0.9421731254340034  
@@ -48,7 +48,7 @@ Mean Squared Error (MSE): 1.5490721701816692
 R² Score: 0.9507675938238425  
 
 **SlantedLogarithm Model**  
-like Initial Model, but before StandardScaling numeric columns, apply `np.log1p` to all columns with a `skew` value greater than 0.5
+like Initial Model, but before StandardScaling numeric columns, apply `np.log1p` to all columns with a `skew` value greater than 0.5  
 *Performance Results:*  
 Mean Absolute Error (MAE): 1.1908070739552812  
 Mean Squared Error (MSE): 2.5867197052850703  

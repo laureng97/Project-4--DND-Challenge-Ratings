@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monster Challenge Rating Predictor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            max-width: 800px;
+        }
+        form {
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+        label {
+            font-weight: bold;
+        }
+        input, textarea {
+            margin-bottom: 10px;
+            padding: 5px;
+            width: 100%;
+        }
+        button {
+            background-color: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+        .result {
+            color: green;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Monster Challenge Rating Predictor</h1>
+    <form action="/predict" method="post">
+        <h2>General Information</h2>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required><br>
+
+        <label for="size">Size:</label>
+        <input type="text" id="size" name="size" required><br>
+
+        <label for="type">Type:</label>
+        <input type="text" id="type" name="type" required><br>
+
+        <label for="alignment">Alignment:</label>
+        <input type="text" id="alignment" name="alignment" required><br>
+
+        <h2>Core Stats</h2>
+        <label for="armor_class">Armor Class:</label>
+        <input type="number" id="armor_class" name="armor_class" required><br>
+
+        <label for="hit_points">Hit Points:</label>
+        <input type="number" id="hit_points" name="hit_points" required><br>
+
+        <label for="hit_dice">Hit Dice:</label>
+        <input type="text" id="hit_dice" name="hit_dice" required><br>
+
+        <label for="speed">Speed:</label>
+        <input type="text" id="speed" name="speed" required><br>
+
+        <h2>Abilities</h2>
+        <label for="strength">Strength:</label>
+        <input type="number" id="strength" name="strength" required><br>
+
+        <label for="dexterity">Dexterity:</label>
+        <input type="number" id="dexterity" name="dexterity" required><br>
+
+        <label for="constitution">Constitution:</label>
+        <input type="number" id="constitution" name="constitution" required><br>
+
+        <label for="intelligence">Intelligence:</label>
+        <input type="number" id="intelligence" name="intelligence" required><br>
+
+        <label for="wisdom">Wisdom:</label>
+        <input type="number" id="wisdom" name="wisdom" required><br>
+
+        <label for="charisma">Charisma:</label>
+        <input type="number" id="charisma" name="charisma" required><br>
+
+        <h2>Special Attributes</h2>
+        <label for="proficiencies">Proficiencies:</label>
+        <textarea id="proficiencies" name="proficiencies" placeholder="e.g., Perception +5"></textarea><br>
+
+        <label for="damage_vulnerabilities">Damage Vulnerabilities:</label>
+        <textarea id="damage_vulnerabilities" name="damage_vulnerabilities" placeholder="e.g., Fire"></textarea><br>
+
+        <label for="damage_resistances">Damage Resistances:</label>
+        <textarea id="damage_resistances" name="damage_resistances" placeholder="e.g., Cold"></textarea><br>
+
+        <label for="damage_immunities">Damage Immunities:</label>
+        <textarea id="damage_immunities" name="damage_immunities" placeholder="e.g., Poison"></textarea><br>
+
+        <label for="condition_immunities">Condition Immunities:</label>
+        <textarea id="condition_immunities" name="condition_immunities" placeholder="e.g., Stunned"></textarea><br>
+
+        <label for="senses">Senses:</label>
+        <textarea id="senses" name="senses" placeholder="e.g., Darkvision 120 ft."></textarea><br>
+
+        <label for="special_abilities">Special Abilities:</label>
+        <textarea id="special_abilities" name="special_abilities" placeholder="e.g., Breath Weapon"></textarea><br>
+
+        <label for="actions">Actions:</label>
+        <textarea id="actions" name="actions" placeholder="e.g., Multiattack"></textarea><br>
+
+        <label for="legendary_actions">Legendary Actions:</label>
+        <textarea id="legendary_actions" name="legendary_actions" placeholder="e.g., Tail Swipe"></textarea><br>
+
+        <label for="reactions">Reactions:</label>
+        <textarea id="reactions" name="reactions" placeholder="e.g., Parry"></textarea><br>
+
+        <label for="other_speeds">Other Speeds:</label>
+        <textarea id="other_speeds" name="other_speeds" placeholder="e.g., Swim 30 ft."></textarea><br>
+
+        <button type="submit">Predict Challenge Rating</button>
+    </form>
+
+    <!-- Display Prediction -->
+    {% if prediction %}
+        <h2 class="result">Predicted Challenge Rating: {{ prediction }}</h2>
+    {% endif %}
+
+    <!-- Display Errors -->
+    {% if error %}
+        <h2 class="error">{{ error }}</h2>
+    {% endif %}
+</body>
+</html>

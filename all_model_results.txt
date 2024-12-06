@@ -3,6 +3,8 @@ Best Alpha: 0.1
 Mean Squared Error: 1.28
 R-Squared: 0.95935
 
+print(grid_search.best_params_):
+{'ridge__alpha': 1}
 
 
 ridge = Ridge(max_iter=10000)  # Allow high iterations to ensure convergence
@@ -22,6 +24,8 @@ Best Alpha: 0.01
 Mean Squared Error: 1.77
 R-Squared: 0.94383
 
+print(grid_search.best_params_):
+{'lasso__alpha': 0.1}
 
 
 # Identify categorical and numeric columns
@@ -64,6 +68,9 @@ Best Alpha: 0.01
 Best L1 Ratio: 0.1
 Mean Squared Error: 1.27
 R-Squared: 0.95955
+
+print(grid_search.best_params_):
+{'elasticnet__alpha': 0.01, 'elasticnet__l1_ratio': 0.1}
 
 
 
@@ -109,6 +116,3 @@ grid_search.fit(X_train, y_train)
 
 ###############################################################################################
 
-print(grid_search.best_params_):
-
-{'elasticnet__alpha': 0.01, 'elasticnet__l1_ratio': 0.1}

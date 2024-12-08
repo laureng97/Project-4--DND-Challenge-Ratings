@@ -19,6 +19,8 @@
         }
         label {
             font-weight: bold;
+            display: block;
+            margin-top: 10px;
         }
         input, textarea {
             margin-bottom: 10px;
@@ -51,82 +53,82 @@
     <form action="/predict" method="post">
         <h2>General Information</h2>
         <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required><br>
+        <input type="text" id="name" name="name" placeholder="Enter monster name" required>
 
         <label for="size">Size:</label>
-        <input type="text" id="size" name="size" required><br>
+        <input type="text" id="size" name="size" placeholder="e.g., Medium" required>
 
         <label for="type">Type:</label>
-        <input type="text" id="type" name="type" required><br>
+        <input type="text" id="type" name="type" placeholder="e.g., Dragon" required>
 
         <label for="alignment">Alignment:</label>
-        <input type="text" id="alignment" name="alignment" required><br>
+        <input type="text" id="alignment" name="alignment" placeholder="e.g., Chaotic Evil" required>
 
         <h2>Core Stats</h2>
         <label for="armor_class">Armor Class:</label>
-        <input type="number" id="armor_class" name="armor_class" required><br>
+        <input type="number" id="armor_class" name="armor_class" placeholder="e.g., 15" required>
 
         <label for="hit_points">Hit Points:</label>
-        <input type="number" id="hit_points" name="hit_points" required><br>
+        <input type="number" id="hit_points" name="hit_points" placeholder="e.g., 120" required>
 
         <label for="hit_dice">Hit Dice:</label>
-        <input type="text" id="hit_dice" name="hit_dice" required><br>
+        <input type="text" id="hit_dice" name="hit_dice" placeholder="e.g., 10d10+30" required>
 
         <label for="speed">Speed:</label>
-        <input type="text" id="speed" name="speed" required><br>
+        <input type="text" id="speed" name="speed" placeholder="e.g., 30 ft., fly 60 ft." required>
 
         <h2>Abilities</h2>
         <label for="strength">Strength:</label>
-        <input type="number" id="strength" name="strength" required><br>
+        <input type="number" id="strength" name="strength" placeholder="e.g., 18" required>
 
         <label for="dexterity">Dexterity:</label>
-        <input type="number" id="dexterity" name="dexterity" required><br>
+        <input type="number" id="dexterity" name="dexterity" placeholder="e.g., 14" required>
 
         <label for="constitution">Constitution:</label>
-        <input type="number" id="constitution" name="constitution" required><br>
+        <input type="number" id="constitution" name="constitution" placeholder="e.g., 16" required>
 
         <label for="intelligence">Intelligence:</label>
-        <input type="number" id="intelligence" name="intelligence" required><br>
+        <input type="number" id="intelligence" name="intelligence" placeholder="e.g., 10" required>
 
         <label for="wisdom">Wisdom:</label>
-        <input type="number" id="wisdom" name="wisdom" required><br>
+        <input type="number" id="wisdom" name="wisdom" placeholder="e.g., 12" required>
 
         <label for="charisma">Charisma:</label>
-        <input type="number" id="charisma" name="charisma" required><br>
+        <input type="number" id="charisma" name="charisma" placeholder="e.g., 16" required>
 
         <h2>Special Attributes</h2>
         <label for="proficiencies">Proficiencies:</label>
-        <textarea id="proficiencies" name="proficiencies" placeholder="e.g., Perception +5"></textarea><br>
+        <textarea id="proficiencies" name="proficiencies" placeholder="e.g., Perception +5"></textarea>
 
         <label for="damage_vulnerabilities">Damage Vulnerabilities:</label>
-        <textarea id="damage_vulnerabilities" name="damage_vulnerabilities" placeholder="e.g., Fire"></textarea><br>
+        <textarea id="damage_vulnerabilities" name="damage_vulnerabilities" placeholder="e.g., Fire"></textarea>
 
         <label for="damage_resistances">Damage Resistances:</label>
-        <textarea id="damage_resistances" name="damage_resistances" placeholder="e.g., Cold"></textarea><br>
+        <textarea id="damage_resistances" name="damage_resistances" placeholder="e.g., Cold"></textarea>
 
         <label for="damage_immunities">Damage Immunities:</label>
-        <textarea id="damage_immunities" name="damage_immunities" placeholder="e.g., Poison"></textarea><br>
+        <textarea id="damage_immunities" name="damage_immunities" placeholder="e.g., Poison"></textarea>
 
         <label for="condition_immunities">Condition Immunities:</label>
-        <textarea id="condition_immunities" name="condition_immunities" placeholder="e.g., Stunned"></textarea><br>
+        <textarea id="condition_immunities" name="condition_immunities" placeholder="e.g., Stunned"></textarea>
 
         <label for="senses">Senses:</label>
-        <textarea id="senses" name="senses" placeholder="e.g., Darkvision 120 ft."></textarea><br>
+        <textarea id="senses" name="senses" placeholder="e.g., Darkvision 120 ft."></textarea>
 
         <label for="special_abilities">Special Abilities:</label>
-        <textarea id="special_abilities" name="special_abilities" placeholder="e.g., Breath Weapon"></textarea><br>
+        <textarea id="special_abilities" name="special_abilities" placeholder="e.g., Breath Weapon"></textarea>
 
         <label for="actions">Actions:</label>
-        <textarea id="actions" name="actions" placeholder="e.g., Multiattack"></textarea><br>
+        <textarea id="actions" name="actions" placeholder="e.g., Multiattack"></textarea>
 
         <label for="legendary_actions">Legendary Actions:</label>
-        <textarea id="legendary_actions" name="legendary_actions" placeholder="e.g., Tail Swipe"></textarea><br>
+        <textarea id="legendary_actions" name="legendary_actions" placeholder="e.g., Tail Swipe"></textarea>
 
         <label for="reactions">Reactions:</label>
-        <textarea id="reactions" name="reactions" placeholder="e.g., Parry"></textarea><br>
+        <textarea id="reactions" name="reactions" placeholder="e.g., Parry"></textarea>
 
         <label for="other_speeds">Other Speeds:</label>
-        <textarea id="other_speeds" name="other_speeds" placeholder="e.g., Swim 30 ft."></textarea><br>
+        <textarea id="other_speeds" name="other_speeds" placeholder="e.g., Swim 30 ft."></textarea>
 
         <button type="submit">Predict Challenge Rating</button>
     </form>

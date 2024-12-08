@@ -1,22 +1,19 @@
 from flask import Flask, render_template, request
-import numpy as np
 import pandas as pd
 import joblib
 
-app = Flask(__name__)
-
-# Disable caching for development
-app.config['SEND_FILE_MAX_AGE_DEFAULT'] = 0
+# Set the current directory as the template folder
+app = Flask(__name__, template_folder=".")
 
 # Load your trained model
-model = joblib.load('linear_model.pkl')  # Ensure this file exists and matches your trained model
+model = joblib.load("linear_model.pkl")
 
-@app.route('/', methods=['GET'])
+@app.route("/", methods=["GET"])
 def home():
     """Home route to render the form."""
-    return render_template('index.html', prediction=None, error=None)
+    return render_template("index.html", prediction=None, error=None)
 
-@app.route('/predict', methods=['POST'])
+@app.route("/predict", methods=["POST"])
 def predict():
     """Route to handle predictions."""
     try:
@@ -53,10 +50,11 @@ def predict():
         prediction = model.predict(input_data)[0]
 
         # Render the result
-        return render_template('index.html', prediction=round(prediction, 2), error=None)
+        return render_template("index.html", prediction=round(prediction, 2), error=None)
     except Exception as e:
         # Handle errors gracefully and show them on the page
-        return render_template('index.html', prediction=None, error=f"Error: {str(e)}")
+        return render_template("index.html", prediction=None, error=f"Error: {str(e)}")
 
 if __name__ == "__main__":
     app.run(debug=True)
+

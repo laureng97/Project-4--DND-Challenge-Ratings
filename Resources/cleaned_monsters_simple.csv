@@ -1,0 +1,323 @@
+name,size,type,alignment,armor_class,hit_points,hit_dice,speed,strength,dexterity,constitution,intelligence,wisdom,charisma,damage_vulnerabilities,damage_resistances,damage_immunities,condition_immunities,senses,challenge_rating,other_speeds
+Aboleth,Large,aberration,lawful evil,17,135,18d10,Walk: 10 Ft. | Swim: 40 Ft.,21,9,15,18,15,18,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 20,10.0,na
+Acolyte,Medium,humanoid,any alignment,10,9,2d8,Walk: 30 Ft.,10,10,10,10,14,11,na,na,na,na,Passive Perception: 12,0.25,na
+Adult Black Dragon,Huge,dragon,chaotic evil,19,195,17d12,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,23,14,21,14,13,17,na,na,Acid,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 21,14.0,na
+Adult Blue Dragon,Huge,dragon,lawful evil,19,225,18d12,Walk: 40 Ft. | Burrow: 30 Ft. | Fly: 80 Ft.,25,10,23,16,15,19,na,na,Lightning,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 22,16.0,na
+Adult Brass Dragon,Huge,dragon,chaotic good,18,172,15d12,Walk: 40 Ft. | Burrow: 40 Ft. | Fly: 80 Ft.,23,10,21,14,13,17,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 21,13.0,na
+Adult Bronze Dragon,Huge,dragon,lawful good,19,212,17d12,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,25,10,23,16,15,19,na,na,Lightning,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 22,15.0,na
+Adult Copper Dragon,Huge,dragon,chaotic good,18,184,16d12,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,23,12,21,18,15,17,na,na,Acid,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 22,14.0,na
+Adult Gold Dragon,Huge,dragon,lawful good,19,256,19d12,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,27,14,25,16,15,24,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 24,17.0,na
+Adult Green Dragon,Huge,dragon,lawful evil,19,207,18d12,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,23,12,21,18,15,17,na,na,Poison,Poisoned,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 22,15.0,na
+Adult Red Dragon,Huge,dragon,chaotic evil,19,256,19d12,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,27,10,25,16,13,21,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 23,17.0,na
+Adult Silver Dragon,Huge,dragon,lawful good,19,243,18d12,Walk: 40 Ft. | Fly: 80 Ft.,27,10,25,16,13,21,na,na,Cold,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 21,16.0,na
+Adult White Dragon,Huge,dragon,chaotic evil,18,200,16d12,Walk: 40 Ft. | Burrow: 30 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,22,10,22,8,12,12,na,na,Cold,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 21,13.0,na
+Air Elemental,Large,elemental,neutral,15,90,12d10,Fly: 90 Ft. | Hover: True,14,20,14,6,10,6,na,"Lightning | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained | Unconscious,Darkvision: 60 Ft. | Passive Perception: 10,5.0,na
+Ancient Black Dragon,Gargantuan,dragon,chaotic evil,22,367,21d20,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,27,14,25,16,15,19,na,na,Acid,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 26,21.0,na
+Ancient Blue Dragon,Gargantuan,dragon,lawful evil,22,481,26d20,Walk: 40 Ft. | Burrow: 40 Ft. | Fly: 80 Ft.,29,10,27,18,17,21,na,na,Lightning,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 27,23.0,na
+Ancient Brass Dragon,Gargantuan,dragon,chaotic good,20,297,17d20,Walk: 40 Ft. | Burrow: 40 Ft. | Fly: 80 Ft.,27,10,25,16,15,19,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 24,20.0,na
+Ancient Bronze Dragon,Gargantuan,dragon,lawful good,22,444,24d20,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,29,10,27,18,17,21,na,na,Lightning,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 27,22.0,na
+Ancient Copper Dragon,Gargantuan,dragon,chaotic good,21,350,20d20,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,27,12,25,20,17,19,na,na,Acid,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 27,21.0,na
+Ancient Gold Dragon,Gargantuan,dragon,lawful good,22,546,28d20,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,30,14,29,18,17,28,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 27,24.0,na
+Ancient Green Dragon,Gargantuan,dragon,lawful evil,21,385,22d20,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,27,12,25,20,17,19,na,na,Poison,Poisoned,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 27,22.0,na
+Ancient Red Dragon,Gargantuan,dragon,chaotic evil,22,546,28d20,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,30,10,29,18,15,23,na,na,Fire,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 26,24.0,na
+Ancient Silver Dragon,Gargantuan,dragon,lawful good,22,487,25d20,Walk: 40 Ft. | Fly: 80 Ft.,30,10,29,18,15,23,na,na,Cold,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 26,23.0,na
+Ancient White Dragon,Gargantuan,dragon,chaotic evil,20,333,18d20,Walk: 40 Ft. | Burrow: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,26,10,26,10,13,14,na,na,Cold,na,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 23,20.0,na
+Androsphinx,Large,monstrosity,lawful neutral,17,199,19d10,Walk: 40 Ft. | Fly: 60 Ft.,22,10,20,16,18,23,na,na,"Psychic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Charmed | Frightened,Truesight: 120 Ft. | Passive Perception: 20,17.0,na
+Animated Armor,Medium,construct,unaligned,18,33,6d8,Walk: 25 Ft.,14,11,13,1,3,1,na,na,Poison | Psychic,Blinded | Charmed | Deafened | Exhaustion | Frightened | Paralyzed | Petrified | Poisoned,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 6,1.0,na
+Ankheg,Large,monstrosity,unaligned,14,39,6d10,Walk: 30 Ft. | Burrow: 10 Ft.,17,11,13,1,13,6,na,na,na,na,Darkvision: 60 Ft. | Tremorsense: 60 Ft. | Passive Perception: 11,2.0,na
+Ape,Medium,beast,unaligned,12,19,3d8,Walk: 30 Ft. | Climb: 30 Ft.,16,14,14,6,12,7,na,na,na,na,Passive Perception: 13,0.5,na
+Archmage,Medium,humanoid,any alignment,12,99,18d8,Walk: 30 Ft.,10,14,12,20,15,16,na,"Damage From Spells | Non Magical Bludgeoning, Piercing, And Slashing (From Stoneskin)",na,na,Passive Perception: 12,12.0,na
+Assassin,Medium,humanoid,any non-good alignment,15,78,12d8,Walk: 30 Ft.,11,16,14,13,11,10,na,Poison,na,na,Passive Perception: 13,8.0,na
+Awakened Shrub,Small,plant,unaligned,9,10,3d6,Walk: 20 Ft.,3,8,11,10,10,6,Fire,Piercing,na,na,Passive Perception: 10,0.0,na
+Awakened Tree,Huge,plant,unaligned,13,59,7d12,Walk: 20 Ft.,19,6,15,10,10,7,Fire,Bludgeoning | Piercing,na,na,Passive Perception: 10,2.0,na
+Axe Beak,Large,beast,unaligned,11,19,3d10,Walk: 50 Ft.,14,12,12,2,10,5,na,na,na,na,Passive Perception: 10,0.25,na
+Azer,Medium,elemental,lawful neutral,17,39,6d8,Walk: 30 Ft.,17,12,15,12,13,10,na,na,Fire | Poison,Poisoned,Passive Perception: 11,2.0,na
+Baboon,Small,beast,unaligned,12,3,1d6,Walk: 30 Ft. | Climb: 30 Ft.,8,14,11,4,12,6,na,na,na,na,Passive Perception: 11,0.0,na
+Badger,Tiny,beast,unaligned,10,3,1d4,Walk: 20 Ft. | Burrow: 5 Ft.,4,11,12,2,12,5,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 11,0.0,na
+Balor,Huge,fiend,chaotic evil,19,262,21d12,Walk: 40 Ft. | Fly: 80 Ft.,26,15,22,20,16,22,na,"Cold | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire | Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 13,19.0,na
+Bandit,Medium,humanoid,any non-lawful alignment,12,11,2d8,Walk: 30 Ft.,11,12,12,10,10,10,na,na,na,na,Passive Perception: 10,0.125,na
+Bandit Captain,Medium,humanoid,any non-lawful alignment,15,65,10d8,Walk: 30 Ft.,15,16,14,14,11,14,na,na,na,na,Passive Perception: 10,2.0,na
+Barbed Devil,Medium,fiend,lawful evil,15,110,13d8,Walk: 30 Ft.,16,17,18,12,14,14,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 18,5.0,na
+Basilisk,Medium,monstrosity,unaligned,12,52,8d8,Walk: 20 Ft.,16,8,15,2,8,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 9,3.0,na
+Bat,Tiny,beast,unaligned,12,1,1d4,Walk: 5 Ft. | Fly: 30 Ft.,2,15,8,2,12,4,na,na,na,na,Blindsight: 60 Ft. | Passive Perception: 11,0.0,na
+Bearded Devil,Medium,fiend,lawful evil,13,52,8d8,Walk: 30 Ft.,16,15,15,9,11,11,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 10,3.0,na
+Behir,Huge,monstrosity,neutral evil,17,168,16d12,Walk: 50 Ft. | Climb: 40 Ft.,23,16,18,7,14,12,na,na,Lightning,na,Darkvision: 90 Ft. | Passive Perception: 16,11.0,na
+Berserker,Medium,humanoid,any chaotic alignment,13,67,9d8,Walk: 30 Ft.,16,12,17,9,11,9,na,na,na,na,Passive Perception: 10,2.0,na
+Black Bear,Medium,beast,unaligned,11,19,3d8,Walk: 40 Ft. | Climb: 30 Ft.,15,10,14,2,12,7,na,na,na,na,Passive Perception: 13,0.5,na
+Black Dragon Wyrmling,Medium,dragon,chaotic evil,17,33,6d8,Walk: 30 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,15,14,13,10,11,13,na,na,Acid,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,2.0,na
+Black Pudding,Large,ooze,unaligned,7,85,10d10,Walk: 20 Ft. | Climb: 20 Ft.,16,5,16,1,6,1,na,na,Acid | Cold | Lightning | Slashing,Blinded | Charmed | Blinded | Exhaustion | Frightened | Prone,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 8,4.0,na
+Blink Dog,Medium,fey,lawful good,13,22,4d8,Walk: 40 Ft.,12,17,12,10,13,11,na,na,na,na,Passive Perception: 10,0.25,na
+Blood Hawk,Small,beast,unaligned,12,7,2d6,Walk: 10 Ft. | Fly: 60 Ft.,6,14,10,3,14,5,na,na,na,na,Passive Perception: 14,0.125,na
+Blue Dragon Wyrmling,Medium,dragon,lawful evil,17,52,8d8,Walk: 30 Ft. | Burrow: 15 Ft. | Fly: 60 Ft.,17,10,15,12,11,15,na,na,Lightning,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,3.0,na
+Boar,Medium,beast,unaligned,11,11,2d8,Walk: 40 Ft.,13,11,12,2,9,5,na,na,na,na,Passive Perception: 9,0.25,na
+Bone Devil,Large,fiend,lawful evil,19,142,15d10,Walk: 40 Ft. | Fly: 40 Ft.,18,16,18,13,14,16,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 9,12.0,na
+Brass Dragon Wyrmling,Medium,dragon,chaotic good,16,16,3d8,Walk: 30 Ft. | Burrow: 15 Ft. | Fly: 60 Ft.,15,10,13,10,11,13,na,na,Fire,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,1.0,na
+Bronze Dragon Wyrmling,Medium,dragon,lawful good,17,32,5d8,Walk: 30 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,17,10,15,12,11,15,na,na,Lightning,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,2.0,na
+Brown Bear,Large,beast,unaligned,11,34,4d10,Walk: 40 Ft. | Climb: 30 Ft.,19,10,16,2,13,7,na,na,na,na,Passive Perception: 13,1.0,na
+Bugbear,Medium,humanoid,chaotic evil,16,27,5d8,Walk: 30 Ft.,15,14,13,8,11,9,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,1.0,na
+Bulette,Large,monstrosity,unaligned,17,94,9d10,Walk: 40 Ft. | Burrow: 40 Ft.,19,11,21,2,10,5,na,na,na,na,Darkvision: 60 Ft. | Tremorsense: 60 Ft. | Passive Perception: 16,5.0,na
+Camel,Large,beast,unaligned,9,15,2d10,Walk: 50 Ft.,16,8,14,2,8,5,na,na,na,na,Passive Perception: 9,0.125,na
+Cat,Tiny,beast,unaligned,12,2,1d4,Walk: 40 Ft. | Climb: 30 Ft.,3,15,10,3,12,7,na,na,na,na,Passive Perception: 13,0.0,na
+Centaur,Large,monstrosity,neutral good,12,45,6d10,Walk: 50 Ft.,18,14,14,9,13,11,na,na,na,na,Passive Perception: 13,2.0,na
+Chain Devil,Medium,fiend,lawful evil,16,85,10d8,Walk: 30 Ft.,18,15,18,11,12,14,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 11,8.0,na
+Chimera,Large,monstrosity,chaotic evil,14,114,12d10,Walk: 30 Ft. | Fly: 60 Ft.,19,11,19,3,14,10,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 18,6.0,na
+Chuul,Large,aberration,chaotic evil,16,93,11d10,Walk: 30 Ft. | Swim: 30 Ft.,19,10,16,5,11,5,na,na,Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 14,4.0,na
+Clay Golem,Large,construct,unaligned,14,133,14d10,Walk: 20 Ft.,20,9,18,3,8,1,na,na,"Acid | Poison | Psychic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Adamantine",Charmed | Exhaustion | Frightened | Paralyzed | Petrified | Poisoned,Darkvision: 60 Ft. | Passive Perception: 9,9.0,na
+Cloaker,Large,aberration,chaotic neutral,14,78,12d10,Walk: 10 Ft. | Fly: 40 Ft.,17,15,12,13,12,14,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 11,8.0,na
+Cloud Giant,Huge,giant,neutral good (50%) or neutral evil (50%),14,200,16d12,Walk: 40 Ft.,27,10,22,12,16,16,na,na,na,na,Passive Perception: 17,9.0,na
+Cockatrice,Small,monstrosity,unaligned,11,27,6d6,Walk: 20 Ft. | Fly: 40 Ft.,6,12,12,2,13,5,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 11,0.5,na
+Commoner,Medium,humanoid,any alignment,10,4,1d8,Walk: 30 Ft.,10,10,10,10,10,10,na,na,na,na,Passive Perception: 10,0.0,na
+Constrictor Snake,Large,beast,unaligned,12,13,2d10,Walk: 30 Ft. | Swim: 30 Ft.,15,14,12,1,10,3,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 10,0.25,na
+Copper Dragon Wyrmling,Medium,dragon,chaotic good,16,22,4d8,Walk: 30 Ft. | Climb: 30 Ft. | Fly: 60 Ft.,15,12,13,14,11,13,na,na,Acid,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,1.0,na
+Couatl,Medium,celestial,lawful good,19,97,13d8,Walk: 30 Ft. | Fly: 90 Ft.,16,20,17,18,20,18,na,Radiant,"Psychic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,Truesight: 120 Ft. | Passive Perception: 15,4.0,na
+Crab,Tiny,beast,unaligned,11,2,1d4,Walk: 20 Ft. | Swim: 20 Ft.,2,11,10,1,8,2,na,na,na,na,Blindsight: 30 Ft. | Passive Perception: 9,0.0,na
+Crocodile,Large,beast,unaligned,12,19,3d10,Walk: 20 Ft. | Swim: 20 Ft.,15,10,13,2,10,5,na,na,na,na,Passive Perception: 10,0.5,na
+Cult Fanatic,Medium,humanoid,any non-good alignment,13,22,6d8,Walk: 30 Ft.,11,14,12,10,13,14,na,na,na,na,Passive Perception: 11,2.0,na
+Cultist,Medium,humanoid,any non-good alignment,12,9,2d8,Walk: 30 Ft.,11,12,10,10,11,10,na,na,na,na,Passive Perception: 10,0.125,na
+Darkmantle,Small,monstrosity,unaligned,11,22,5d6,Walk: 10 Ft. | Fly: 30 Ft.,16,12,13,2,10,5,na,na,na,na,Blindsight: 60 Ft. | Passive Perception: 10,0.5,na
+Death Dog,Medium,monstrosity,neutral evil,12,39,6d8,Walk: 40 Ft.,15,14,14,3,13,6,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 15,1.0,na
+Deep Gnome (Svirfneblin),Small,humanoid,neutral good,15,16,3d6,Walk: 20 Ft.,15,14,14,12,10,9,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 12,0.5,na
+Deer,Medium,beast,unaligned,13,4,1d8,Walk: 50 Ft.,11,16,11,2,14,5,na,na,na,na,Passive Perception: 12,0.0,na
+Deva,Medium,celestial,lawful good,17,136,16d8,Walk: 30 Ft. | Fly: 90 Ft.,18,18,18,17,20,20,na,"Radiant | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,Charmed | Exhaustion | Frightened,Darkvision: 120 Ft. | Passive Perception: 19,10.0,na
+Dire Wolf,Large,beast,unaligned,14,37,5d10,Walk: 50 Ft.,17,15,15,3,12,7,na,na,na,na,Passive Perception: 13,1.0,na
+Djinni,Large,elemental,chaotic good,17,161,14d10,Walk: 30 Ft. | Fly: 90 Ft.,21,15,22,15,16,20,na,na,Lightning | Thunder,na,Darkvision: 120 Ft. | Passive Perception: 13,11.0,na
+Doppelganger,Medium,monstrosity,unaligned,14,52,8d8,Walk: 30 Ft.,11,18,14,11,12,14,na,na,na,Charmed,Darkvision: 60 Ft. | Passive Perception: 11,3.0,na
+Draft Horse,Large,beast,unaligned,10,19,3d10,Walk: 40 Ft.,18,10,12,2,11,7,na,na,na,na,Passive Perception: 10,0.25,na
+Dragon Turtle,Gargantuan,dragon,neutral,20,341,22d20,Walk: 20 Ft. | Swim: 40 Ft.,25,10,20,10,12,12,na,Fire,na,na,Darkvision: 120 Ft. | Passive Perception: 11,17.0,na
+Dretch,Small,fiend,chaotic evil,11,18,4d6,Walk: 20 Ft.,11,11,12,5,8,3,na,Cold | Fire | Lightning,Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 9,0.25,na
+Drider,Large,monstrosity,chaotic evil,19,123,13d10,Walk: 30 Ft. | Climb: 30 Ft.,16,16,18,13,14,12,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 15,6.0,na
+Drow,Medium,humanoid,neutral evil,15,13,3d8,Walk: 30 Ft.,10,14,10,11,11,12,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 12,0.25,na
+Druid,Medium,humanoid,any alignment,11,27,5d8,Walk: 30 Ft.,10,12,13,12,15,11,na,na,na,na,Passive Perception: 14,2.0,na
+Dryad,Medium,fey,neutral,11,22,5d8,Walk: 30 Ft.,10,12,11,14,15,18,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,1.0,na
+Duergar,Medium,humanoid,lawful evil,16,26,4d8,Walk: 25 Ft.,14,11,14,11,10,9,na,Poison,na,na,Darkvision: 120 Ft. | Passive Perception: 10,1.0,na
+Dust Mephit,Small,elemental,neutral evil,12,17,5d6,Walk: 30 Ft. | Fly: 30 Ft.,5,14,10,9,11,10,Fire,na,Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 12,0.5,na
+Eagle,Small,beast,unaligned,12,3,1d6,Walk: 10 Ft. | Fly: 60 Ft.,6,15,10,2,14,7,na,na,na,na,Passive Perception: 14,0.0,na
+Earth Elemental,Large,elemental,neutral,17,126,12d10,Walk: 30 Ft. | Burrow: 30 Ft.,20,8,20,5,10,5,Thunder,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Exhaustion | Paralyzed | Petrified | Poisoned | Unconscious,Darkvision: 60 Ft. | Tremorsense: 60 Ft. | Passive Perception: 10,5.0,na
+Efreeti,Large,elemental,lawful evil,17,200,16d10,Walk: 40 Ft. | Fly: 60 Ft.,22,12,24,16,15,16,na,na,Fire,na,Darkvision: 120 Ft. | Passive Perception: 12,11.0,na
+Elephant,Huge,beast,unaligned,12,76,8d12,Walk: 40 Ft.,22,9,17,3,11,6,na,na,na,na,Passive Perception: 10,4.0,na
+Elk,Large,beast,unaligned,10,13,2d10,Walk: 50 Ft.,16,10,12,2,10,6,na,na,na,na,Passive Perception: 10,0.25,na
+Erinyes,Medium,fiend,lawful evil,18,153,18d8,Walk: 30 Ft. | Fly: 60 Ft.,18,16,18,14,14,18,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 12,12.0,na
+Ettercap,Medium,monstrosity,neutral evil,13,44,8d8,Walk: 30 Ft. | Climb: 30 Ft.,14,15,13,7,12,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 13,2.0,na
+Ettin,Large,giant,chaotic evil,12,85,10d10,Walk: 40 Ft.,21,8,17,6,10,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,4.0,na
+Fire Elemental,Large,elemental,neutral,13,102,12d10,Walk: 50 Ft.,10,17,16,6,10,7,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire | Poison,Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained | Unconscious,Darkvision: 60 Ft. | Passive Perception: 10,5.0,na
+Fire Giant,Huge,giant,lawful evil,18,162,13d12,Walk: 30 Ft.,25,9,23,10,14,13,na,na,Fire,na,Passive Perception: 16,9.0,na
+Flesh Golem,Medium,construct,neutral,9,93,11d8,Walk: 30 Ft.,19,9,18,6,10,5,na,na,"Lightning | Poison | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Adamantine",Charmed | Exhaustion | Frightened | Paralyzed | Petrified | Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,5.0,na
+Flying Snake,Tiny,beast,unaligned,14,5,2d4,Walk: 30 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,4,18,11,2,12,5,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 11,0.125,na
+Flying Sword,Small,construct,unaligned,17,17,5d6,Walk: 0 Ft. | Fly: 50 Ft. | Hover: True,12,15,11,1,5,1,na,na,Poison | Psychic,Blinded | Charmed | Blinded | Frightened | Paralyzed | Petrified | Poisoned,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 7,0.25,na
+Frog,Tiny,beast,unaligned,11,1,1d4,Walk: 20 Ft. | Swim: 20 Ft.,1,13,8,1,8,3,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 11,0.0,na
+Frost Giant,Huge,giant,neutral evil,15,138,12d12,Walk: 40 Ft.,23,9,21,9,10,12,na,na,Cold,na,Passive Perception: 13,8.0,na
+Gargoyle,Medium,elemental,chaotic evil,15,52,7d8,Walk: 30 Ft. | Fly: 60 Ft.,15,11,16,6,11,7,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Adamantine",Poison,Exhaustion | Petrified | Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,2.0,na
+Gelatinous Cube,Large,ooze,unaligned,6,84,8d10,Walk: 15 Ft.,14,3,20,1,6,1,na,na,na,Blinded | Charmed | Blinded | Exhaustion | Frightened | Prone,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 8,2.0,na
+Ghast,Medium,undead,chaotic evil,13,36,8d8,Walk: 30 Ft.,16,17,10,11,10,8,na,na,Necrotic,Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,2.0,na
+Ghost,Medium,undead,any alignment,11,45,10d8,Walk: 0 Ft. | Fly: 40 Ft. | Hover: True,7,13,10,10,12,17,na,"Acid | Fire | Lightning | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Cold | Necrotic | Poison,Charmed | Exhaustion | Frightened | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained,Darkvision: 60 Ft. | Passive Perception: 11,4.0,na
+Ghoul,Medium,undead,chaotic evil,12,22,5d8,Walk: 30 Ft.,13,15,10,7,10,6,na,na,na,Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,1.0,na
+Giant Ape,Huge,beast,unaligned,12,157,15d12,Walk: 40 Ft. | Climb: 40 Ft.,23,14,18,7,12,7,na,na,na,na,Passive Perception: 14,7.0,na
+Giant Badger,Medium,beast,unaligned,10,13,2d8,Walk: 30 Ft. | Burrow: 10 Ft.,13,10,15,2,12,5,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 11,0.25,na
+Giant Bat,Large,beast,unaligned,13,22,4d10,Walk: 10 Ft. | Fly: 60 Ft.,15,16,11,2,12,6,na,na,na,na,Blindsight: 60 Ft. | Passive Perception: 11,0.25,na
+Giant Boar,Large,beast,unaligned,12,42,5d10,Walk: 40 Ft.,17,10,16,2,7,5,na,na,na,na,Passive Perception: 8,2.0,na
+Giant Centipede,Small,beast,unaligned,13,4,1d6,Walk: 30 Ft. | Climb: 30 Ft.,5,14,12,1,7,3,na,na,na,na,Blindsight: 30 Ft. | Passive Perception: 8,0.25,na
+Giant Constrictor Snake,Huge,beast,unaligned,12,60,8d12,Walk: 30 Ft. | Swim: 30 Ft.,19,14,12,1,10,3,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 12,2.0,na
+Giant Crab,Medium,beast,unaligned,15,13,3d8,Walk: 30 Ft. | Swim: 30 Ft.,13,15,11,1,9,3,na,na,na,na,Blindsight: 30 Ft. | Passive Perception: 9,0.125,na
+Giant Crocodile,Huge,beast,unaligned,14,85,9d12,Walk: 30 Ft. | Swim: 50 Ft.,21,9,17,2,10,7,na,na,na,na,Passive Perception: 10,5.0,na
+Giant Eagle,Large,beast,neutral good,13,26,4d10,Walk: 10 Ft. | Fly: 80 Ft.,16,17,13,8,14,10,na,na,na,na,Passive Perception: 14,1.0,na
+Giant Elk,Huge,beast,unaligned,15,42,5d12,Walk: 60 Ft.,19,16,14,7,14,10,na,na,na,na,Passive Perception: 14,2.0,na
+Giant Fire Beetle,Small,beast,unaligned,13,4,1d6,Walk: 30 Ft.,8,10,12,1,7,3,na,na,na,na,Blindsight: 30 Ft. | Passive Perception: 8,0.0,na
+Giant Frog,Medium,beast,unaligned,11,18,4d8,Walk: 30 Ft. | Swim: 30 Ft.,12,13,11,2,10,3,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 12,0.25,na
+Giant Goat,Large,beast,unaligned,11,19,3d10,Walk: 40 Ft.,17,11,12,3,12,6,na,na,na,na,Passive Perception: 11,0.5,na
+Giant Hyena,Large,beast,unaligned,12,45,6d10,Walk: 50 Ft.,16,14,14,2,12,7,na,na,na,na,Passive Perception: 13,1.0,na
+Giant Lizard,Large,beast,unaligned,12,19,3d10,Walk: 30 Ft. | Climb: 30 Ft.,15,12,13,2,10,5,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 10,0.25,na
+Giant Octopus,Large,beast,unaligned,11,52,8d10,Walk: 10 Ft. | Swim: 60 Ft.,17,13,13,4,10,4,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,1.0,na
+Giant Owl,Large,beast,neutral,12,19,3d10,Walk: 5 Ft. | Fly: 60 Ft.,13,15,12,8,13,10,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 15,0.25,na
+Giant Poisonous Snake,Medium,beast,unaligned,14,11,2d8,Walk: 30 Ft. | Swim: 30 Ft.,10,18,13,2,10,3,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 12,0.25,na
+Giant Rat,Small,beast,unaligned,12,7,2d6,Walk: 30 Ft.,7,15,11,2,10,4,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,0.125,na
+Giant Rat (Diseased),Small,beast,unaligned,12,7,2d6,Walk: 30 Ft.,7,15,11,2,10,4,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,0.125,na
+Giant Scorpion,Large,beast,unaligned,15,52,7d10,Walk: 40 Ft.,15,13,15,1,9,3,na,na,na,na,Blindsight: 60 Ft. | Passive Perception: 9,3.0,na
+Giant Sea Horse,Large,beast,unaligned,13,16,3d10,Walk: 0 Ft. | Swim: 40 Ft.,12,15,11,2,12,5,na,na,na,na,Passive Perception: 11,0.5,na
+Giant Shark,Huge,beast,unaligned,13,126,11d12,Swim: 50 Ft.,23,11,21,1,10,5,na,na,na,na,Blindsight: 60 Ft. | Passive Perception: 13,5.0,na
+Giant Spider,Large,beast,unaligned,14,26,4d10,Walk: 30 Ft. | Climb: 30 Ft.,14,16,12,2,11,4,na,na,na,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 10,1.0,na
+Giant Toad,Large,beast,unaligned,11,39,6d10,Walk: 20 Ft. | Swim: 40 Ft.,15,13,13,2,10,3,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 10,1.0,na
+Giant Vulture,Large,beast,neutral evil,10,22,3d10,Walk: 10 Ft. | Fly: 60 Ft.,15,10,15,6,12,7,na,na,na,na,Passive Perception: 13,1.0,na
+Giant Wasp,Medium,beast,unaligned,12,13,3d8,Walk: 10 Ft. | Fly: 50 Ft. | Swim: 50 Ft.,10,14,10,1,10,3,na,na,na,na,Passive Perception: 10,0.5,na
+Giant Weasel,Medium,beast,unaligned,13,9,2d8,Walk: 40 Ft.,11,16,10,4,12,5,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 13,0.125,na
+Giant Wolf Spider,Medium,beast,unaligned,13,11,2d8,Walk: 40 Ft. | Climb: 40 Ft.,12,16,13,3,12,4,na,na,na,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 13,0.25,na
+Gibbering Mouther,Medium,aberration,neutral,9,67,9d8,Walk: 10 Ft. | Swim: 10 Ft.,10,8,16,3,10,6,na,na,na,Prone,Darkvision: 60 Ft. | Passive Perception: 10,2.0,na
+Glabrezu,Large,fiend,chaotic evil,17,157,15d10,Walk: 40 Ft.,20,15,21,19,17,16,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 13,9.0,na
+Gladiator,Medium,humanoid,any alignment,16,112,15d8,Walk: 30 Ft.,18,15,16,10,12,15,na,na,na,na,Passive Perception: 11,5.0,na
+Gnoll,Medium,humanoid,chaotic evil,15,22,5d8,Walk: 30 Ft.,14,12,11,6,10,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Goat,Medium,beast,unaligned,10,4,1d8,Walk: 40 Ft.,12,10,11,2,10,5,na,na,na,na,Passive Perception: 10,0.0,na
+Goblin,Small,humanoid,neutral evil,15,7,2d6,Walk: 30 Ft.,8,14,10,10,8,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 9,0.25,na
+Gold Dragon Wyrmling,Medium,dragon,lawful good,17,60,8d8,Walk: 30 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,19,14,17,14,11,16,na,na,Fire,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,3.0,na
+Gorgon,Large,monstrosity,unaligned,19,114,12d10,Walk: 40 Ft.,20,11,18,2,12,7,na,na,na,Petrified,Darkvision: 60 Ft. | Passive Perception: 14,5.0,na
+Gray Ooze,Medium,ooze,unaligned,8,22,3d8,Walk: 10 Ft. | Climb: 10 Ft.,12,6,16,1,6,2,na,Acid | Cold | Fire,na,Blinded | Charmed | Deafened | Exhaustion | Frightened | Prone,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 8,0.5,na
+Green Dragon Wyrmling,Medium,dragon,lawful evil,17,38,7d8,Walk: 30 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,15,12,13,14,11,13,na,na,Poison,Poisoned,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,2.0,na
+Green Hag,Medium,fey,neutral evil,17,82,11d8,Walk: 30 Ft.,18,12,16,13,14,14,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,3.0,na
+Grick,Medium,monstrosity,neutral,14,27,6d8,Walk: 30 Ft. | Climb: 30 Ft.,14,14,11,3,14,5,na,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons",na,na,Darkvision: 60 Ft. | Passive Perception: 12,2.0,na
+Griffon,Large,monstrosity,unaligned,12,59,7d10,Walk: 30 Ft. | Fly: 80 Ft.,18,15,16,2,13,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 15,2.0,na
+Grimlock,Medium,humanoid,neutral evil,11,11,2d8,Walk: 30 Ft.,16,12,12,9,8,6,na,na,na,Blinded,Blindsight: 30 Ft. Or 10 Ft. While Deafened (Blind Beyond This Radius) | Passive Perception: 13,0.25,na
+Guard,Medium,humanoid,any alignment,16,11,2d8,Walk: 30 Ft.,13,12,12,10,11,10,na,na,na,na,Passive Perception: 12,0.125,na
+Guardian Naga,Large,monstrosity,lawful good,18,127,15d10,Walk: 40 Ft.,19,18,16,16,19,18,na,na,Poison,Charmed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 14,10.0,na
+Gynosphinx,Large,monstrosity,lawful neutral,17,136,16d10,Walk: 40 Ft. | Fly: 60 Ft.,18,15,16,18,18,18,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Psychic,Charmed | Frightened,Truesight: 120 Ft. | Passive Perception: 18,11.0,na
+Half-Red Dragon Veteran,Medium,humanoid,any alignment,18,65,10d8,Walk: 30 Ft.,16,13,14,10,11,10,na,Fire,na,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 12,5.0,na
+Harpy,Medium,monstrosity,chaotic evil,11,38,7d8,Walk: 20 Ft. | Fly: 40 Ft.,12,13,12,7,10,13,na,na,na,na,Passive Perception: 10,1.0,na
+Hawk,Tiny,beast,unaligned,13,1,1d4,Walk: 10 Ft. | Fly: 60 Ft.,5,16,8,2,14,6,na,na,na,na,Passive Perception: 14,0.0,na
+Hell Hound,Medium,fiend,lawful evil,15,45,7d8,Walk: 50 Ft.,17,12,14,6,13,6,na,na,Fire,na,Darkvision: 60 Ft. | Passive Perception: 15,3.0,na
+Hezrou,Large,fiend,chaotic evil,16,136,13d10,Walk: 30 Ft.,19,17,20,5,12,13,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 11,8.0,na
+Hill Giant,Huge,giant,chaotic evil,13,105,10d12,Walk: 40 Ft.,21,8,19,5,9,6,na,na,na,na,Passive Perception: 12,5.0,na
+Hippogriff,Large,monstrosity,unaligned,11,19,3d10,Walk: 40 Ft. | Fly: 60 Ft.,17,13,13,2,12,8,na,na,na,na,Passive Perception: 15,1.0,na
+Hobgoblin,Medium,humanoid,lawful evil,18,11,2d8,Walk: 30 Ft.,13,12,12,10,10,9,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Homunculus,Tiny,construct,neutral,13,5,2d4,Walk: 20 Ft. | Fly: 40 Ft.,4,15,11,10,10,7,na,na,Poison,Charmed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,0.0,na
+Horned Devil,Large,fiend,lawful evil,18,148,17d10,Walk: 20 Ft. | Fly: 60 Ft.,22,17,21,12,16,17,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 13,11.0,na
+Hunter Shark,Large,beast,unaligned,12,45,6d10,Swim: 40 Ft.,18,13,15,1,10,4,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 12,2.0,na
+Hydra,Huge,monstrosity,unaligned,15,172,15d12,Walk: 30 Ft. | Swim: 30 Ft.,20,12,20,2,10,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 16,8.0,na
+Hyena,Medium,beast,unaligned,11,5,1d8,Walk: 50 Ft.,11,13,12,2,12,5,na,na,na,na,Passive Perception: 13,0.0,na
+Ice Devil,Large,fiend,lawful evil,18,180,19d10,Walk: 40 Ft.,21,14,18,18,15,18,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Blindsight: 60 Ft. | Darkvision: 120 Ft. | Passive Perception: 12,14.0,na
+Ice Mephit,Small,elemental,neutral evil,11,21,6d6,Walk: 30 Ft. | Fly: 30 Ft.,7,13,10,9,11,12,Bludgeoning | Fire,na,Cold | Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 12,0.5,na
+Imp,Tiny,fiend,lawful evil,13,10,3d4,Walk: 20 Ft. | Fly: 40 Ft.,6,17,13,11,12,14,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical/Nonsilver Weapons",Fire | Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 11,1.0,na
+Invisible Stalker,Medium,elemental,neutral,14,104,16d8,Walk: 50 Ft. | Fly: 50 Ft. | Hover: True,16,19,14,10,15,11,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained | Unconscious,Darkvision: 60 Ft. | Passive Perception: 18,6.0,na
+Iron Golem,Large,construct,unaligned,20,210,20d10,Walk: 30 Ft.,24,9,20,3,11,1,na,na,"Fire | Poison | Psychic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Adamantine",Charmed | Exhaustion | Frightened | Paralyzed | Petrified | Poisoned,Darkvision: 120 Ft. | Passive Perception: 10,16.0,na
+Jackal,Small,beast,unaligned,12,3,1d6,Walk: 40 Ft.,8,15,11,3,12,6,na,na,na,na,Passive Perception: 13,0.0,na
+Killer Whale,Huge,beast,unaligned,12,90,12d12,Swim: 60 Ft.,19,10,13,3,12,7,na,na,na,na,Blindsight: 120 Ft. | Passive Perception: 13,3.0,na
+Knight,Medium,humanoid,any alignment,18,52,8d8,Walk: 30 Ft.,16,11,14,11,11,15,na,na,na,na,Passive Perception: 10,3.0,na
+Kobold,Small,humanoid,lawful evil,12,5,2d6,Walk: 30 Ft.,7,15,9,8,7,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 8,0.125,na
+Kraken,Gargantuan,monstrosity,chaotic evil,18,472,27d20,Walk: 20 Ft. | Swim: 60 Ft.,30,11,25,22,18,20,na,na,"Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Frightened | Paralyzed,Truesight: 120 Ft. | Passive Perception: 14,23.0,na
+Lamia,Large,monstrosity,chaotic evil,13,97,13d10,Walk: 30 Ft.,16,13,15,14,15,16,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 12,4.0,na
+Lemure,Medium,fiend,lawful evil,7,13,3d8,Walk: 15 Ft.,10,5,11,1,11,3,na,Cold,Fire | Poison,Charmed | Frightened | Poisoned,Darkvision: 120 Ft. | Passive Perception: 10,0.0,na
+Lich,Medium,undead,any evil alignment,17,135,18d8,Walk: 30 Ft.,11,16,16,20,14,16,na,Cold | Lightning | Necrotic,"Poison | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Charmed | Exhaustion | Frightened | Paralyzed | Poisoned,Truesight: 120 Ft. | Passive Perception: 19,21.0,na
+Lion,Large,beast,unaligned,12,26,4d10,Walk: 50 Ft.,17,15,13,3,12,8,na,na,na,na,Passive Perception: 13,1.0,na
+Lizard,Tiny,beast,unaligned,10,2,1d4,Walk: 20 Ft. | Climb: 20 Ft.,2,11,10,1,8,3,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 9,0.0,na
+Lizardfolk,Medium,humanoid,neutral,15,22,4d8,Walk: 30 Ft. | Swim: 30 Ft.,15,10,13,7,12,7,na,na,na,na,Passive Perception: 13,0.5,na
+Mage,Medium,humanoid,any alignment,12,40,9d8,Walk: 30 Ft.,9,14,11,17,12,11,na,na,na,na,Passive Perception: 11,6.0,na
+Magma Mephit,Small,elemental,neutral evil,11,22,5d6,Walk: 30 Ft. | Fly: 30 Ft.,8,12,12,7,10,10,Cold,na,Fire | Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Magmin,Small,elemental,chaotic neutral,14,9,2d6,Walk: 30 Ft.,7,15,12,8,11,10,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire,na,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Mammoth,Huge,beast,unaligned,13,126,11d12,Walk: 40 Ft.,24,9,21,3,11,6,na,na,na,na,Passive Perception: 10,6.0,na
+Manticore,Large,monstrosity,lawful evil,14,68,8d10,Walk: 30 Ft. | Fly: 50 Ft.,17,16,17,7,12,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 11,3.0,na
+Marilith,Large,fiend,chaotic evil,18,189,18d10,Walk: 40 Ft.,18,20,20,18,16,20,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 13,16.0,na
+Mastiff,Medium,beast,unaligned,12,5,1d8,Walk: 40 Ft.,13,14,12,3,12,7,na,na,na,na,Passive Perception: 13,0.125,na
+Medusa,Medium,monstrosity,lawful evil,15,127,17d8,Walk: 30 Ft.,10,15,16,12,13,15,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,6.0,na
+Merfolk,Medium,humanoid,neutral,11,11,2d8,Walk: 10 Ft. | Swim: 40 Ft.,10,13,12,11,11,12,na,na,na,na,Passive Perception: 12,0.125,na
+Merrow,Large,monstrosity,chaotic evil,13,45,6d10,Walk: 10 Ft. | Swim: 40 Ft.,18,10,15,8,10,9,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,2.0,na
+Mimic,Medium,monstrosity,neutral,12,58,9d8,Walk: 15 Ft.,17,12,15,5,13,8,na,na,Acid,Prone,Darkvision: 60 Ft. | Passive Perception: 11,2.0,na
+Minotaur,Large,monstrosity,chaotic evil,14,76,9d10,Walk: 40 Ft.,18,11,16,6,16,9,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 17,3.0,na
+Minotaur Skeleton,Large,undead,lawful evil,12,67,9d10,Walk: 40 Ft.,18,11,15,6,8,5,Bludgeoning,na,Poison,Exhaustion | Poisoned,Darkvision: 60 Ft. | Passive Perception: 9,2.0,na
+Mule,Medium,beast,unaligned,10,11,2d8,Walk: 40 Ft.,14,10,13,2,10,5,na,na,na,na,Passive Perception: 10,0.125,na
+Mummy,Medium,undead,lawful evil,11,58,9d8,Walk: 20 Ft.,16,8,15,6,10,12,Fire,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Necrotic | Poison,Charmed | Exhaustion | Frightened | Paralyzed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,3.0,na
+Mummy Lord,Medium,undead,lawful evil,17,97,13d8,Walk: 20 Ft.,18,10,17,11,18,16,Bludgeoning,na,"Necrotic | Poison | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Charmed | Exhaustion | Frightened | Paralyzed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 14,15.0,na
+Nalfeshnee,Large,fiend,chaotic evil,18,184,16d10,Walk: 20 Ft. | Fly: 30 Ft.,21,10,22,19,12,15,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 11,13.0,na
+Night Hag,Medium,fiend,neutral evil,17,112,15d8,Walk: 30 Ft.,18,15,16,16,14,16,na,"Cold | Fire | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",na,Charmed,Darkvision: 120 Ft. | Passive Perception: 16,5.0,na
+Nightmare,Large,fiend,neutral evil,13,68,8d10,Walk: 60 Ft. | Fly: 90 Ft.,18,15,16,10,13,15,na,na,Fire,na,Passive Perception: 11,3.0,na
+Noble,Medium,humanoid,any alignment,15,9,2d8,Walk: 30 Ft.,11,12,11,12,14,16,na,na,na,na,Passive Perception: 12,0.125,na
+Ochre Jelly,Large,ooze,unaligned,8,45,6d10,Walk: 10 Ft. | Climb: 10 Ft.,15,6,14,2,6,1,na,Acid,Lightning | Slashing,Blinded | Charmed | Blinded | Exhaustion | Frightened | Prone,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 8,2.0,na
+Octopus,Small,beast,unaligned,12,3,1d6,Walk: 5 Ft. | Swim: 30 Ft.,4,15,11,3,10,4,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 12,0.0,na
+Ogre,Large,giant,chaotic evil,11,59,7d10,Walk: 40 Ft.,19,8,16,5,7,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 8,2.0,na
+Ogre Zombie,Large,undead,neutral evil,8,85,9d10,Walk: 30 Ft.,19,6,18,3,6,5,na,na,Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 8,2.0,na
+Oni,Large,giant,lawful evil,16,110,13d10,Walk: 30 Ft. | Fly: 30 Ft.,19,11,16,14,12,15,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,7.0,na
+Orc,Medium,humanoid,chaotic evil,13,15,2d8,Walk: 30 Ft.,16,12,16,7,11,10,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Otyugh,Large,aberration,neutral,14,114,12d10,Walk: 30 Ft.,16,11,19,6,13,6,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 11,5.0,na
+Owl,Tiny,beast,unaligned,11,1,1d4,Walk: 5 Ft. | Fly: 60 Ft.,3,13,8,2,12,7,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 13,0.0,na
+Owlbear,Large,monstrosity,unaligned,13,59,7d10,Walk: 40 Ft.,20,12,17,3,12,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 13,3.0,na
+Panther,Medium,beast,unaligned,12,13,3d8,Walk: 50 Ft. | Climb: 40 Ft.,14,15,10,3,14,7,na,na,na,na,Passive Perception: 14,0.25,na
+Pegasus,Large,celestial,chaotic good,12,59,7d10,Walk: 60 Ft. | Fly: 90 Ft.,18,15,16,10,15,13,na,na,na,na,Passive Perception: 16,2.0,na
+Phase Spider,Large,monstrosity,unaligned,13,32,5d10,Walk: 30 Ft. | Climb: 30 Ft.,15,15,12,6,10,6,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 10,3.0,na
+Pit Fiend,Large,fiend,lawful evil,19,300,24d10,Walk: 30 Ft. | Fly: 60 Ft.,26,14,24,22,18,24,na,"Cold | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Fire | Poison,Poisoned,Truesight: 120 Ft. | Passive Perception: 14,20.0,na
+Planetar,Large,celestial,lawful good,19,200,16d10,Walk: 40 Ft. | Fly: 120 Ft.,24,20,24,19,22,25,na,"Radiant | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,Charmed | Exhaustion | Frightened,Truesight: 120 Ft. | Passive Perception: 21,16.0,na
+Plesiosaurus,Large,beast,unaligned,13,68,8d10,Walk: 20 Ft. | Swim: 40 Ft.,18,15,16,2,12,5,na,na,na,na,Passive Perception: 13,2.0,na
+Poisonous Snake,Tiny,beast,unaligned,13,2,1d4,Walk: 30 Ft. | Swim: 30 Ft.,2,16,11,1,10,3,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 10,0.125,na
+Polar Bear,Large,beast,unaligned,12,42,5d10,Walk: 40 Ft. | Swim: 30 Ft.,20,10,16,2,13,7,na,na,na,na,Passive Perception: 13,2.0,na
+Pony,Medium,beast,unaligned,10,11,2d8,Walk: 40 Ft.,15,10,13,2,11,7,na,na,na,na,Passive Perception: 10,0.125,na
+Priest,Medium,humanoid,any alignment,13,27,5d8,Walk: 25 Ft.,10,10,12,13,16,13,na,na,na,na,Passive Perception: 13,2.0,na
+Pseudodragon,Tiny,dragon,neutral good,13,7,2d4,Walk: 15 Ft. | Fly: 60 Ft.,6,15,13,10,12,10,na,na,na,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 13,0.25,na
+Purple Worm,Gargantuan,monstrosity,unaligned,18,247,15d20,Walk: 50 Ft. | Burrow: 30 Ft.,28,7,22,1,8,4,na,na,na,na,Blindsight: 30 Ft. | Tremorsense: 60 Ft. | Passive Perception: 9,15.0,na
+Quasit,Tiny,fiend,chaotic evil,13,7,3d4,Walk: 40 Ft.,5,17,10,7,10,10,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 10,1.0,na
+Quipper,Tiny,beast,unaligned,13,1,1d4,Swim: 40 Ft.,2,16,9,1,7,2,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 8,0.0,na
+Rakshasa,Medium,fiend,lawful evil,16,110,13d8,Walk: 40 Ft.,14,17,18,13,16,20,Piercing From Magic Weapons Wielded By Good Creatures,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,Darkvision: 60 Ft. | Passive Perception: 13,13.0,na
+Rat,Tiny,beast,unaligned,10,1,1d4,Walk: 20 Ft.,2,11,9,2,10,4,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 10,0.0,na
+Raven,Tiny,beast,unaligned,12,1,1d4,Walk: 10 Ft. | Fly: 50 Ft.,2,14,8,2,12,6,na,na,na,na,Passive Perception: 13,0.0,na
+Red Dragon Wyrmling,Medium,dragon,chaotic evil,17,75,10d8,Walk: 30 Ft. | Climb: 30 Ft. | Fly: 60 Ft.,19,10,17,12,11,15,na,na,Fire,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,4.0,na
+Reef Shark,Medium,beast,unaligned,12,22,4d8,Swim: 40 Ft.,14,13,13,1,10,4,na,na,na,na,Blindsight: 30 Ft. | Passive Perception: 12,0.5,na
+Remorhaz,Huge,monstrosity,unaligned,17,195,17d12,Walk: 30 Ft. | Burrow: 20 Ft.,24,13,21,4,10,5,na,na,Cold | Fire,na,Darkvision: 60 Ft. | Tremorsense: 60 Ft. | Passive Perception: 10,11.0,na
+Rhinoceros,Large,beast,unaligned,11,45,6d10,Walk: 40 Ft.,21,8,15,2,12,6,na,na,na,na,Passive Perception: 11,2.0,na
+Riding Horse,Large,beast,unaligned,10,13,2d10,Walk: 60 Ft.,16,10,12,2,11,7,na,na,na,na,Passive Perception: 10,0.25,na
+Roc,Gargantuan,monstrosity,unaligned,15,248,16d20,Walk: 20 Ft. | Fly: 120 Ft.,28,10,20,3,10,9,na,na,na,na,Passive Perception: 14,11.0,na
+Roper,Large,monstrosity,neutral evil,20,93,11d10,Walk: 10 Ft. | Climb: 10 Ft.,18,8,17,7,16,6,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 16,5.0,na
+Rug of Smothering,Large,construct,unaligned,12,33,6d10,Walk: 10 Ft.,17,14,10,1,3,1,na,na,Poison | Psychic,Blinded | Charmed | Blinded | Frightened | Paralyzed | Petrified | Poisoned,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 6,2.0,na
+Rust Monster,Medium,monstrosity,unaligned,14,27,5d8,Walk: 40 Ft.,13,12,13,2,13,6,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 11,0.5,na
+Saber-Toothed Tiger,Large,beast,unaligned,12,52,7d10,Walk: 40 Ft.,18,14,15,3,12,8,na,na,na,na,Passive Perception: 13,2.0,na
+Sahuagin,Medium,humanoid,lawful evil,12,22,4d8,Walk: 30 Ft. | Swim: 40 Ft.,13,11,12,12,13,9,na,na,na,na,Darkvision: 120 Ft. | Passive Perception: 15,0.5,na
+Salamander,Large,elemental,neutral evil,15,90,12d10,Walk: 30 Ft.,18,14,15,11,10,12,Cold,"Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Fire,na,Darkvision: 60 Ft. | Passive Perception: 10,5.0,na
+Satyr,Medium,fey,chaotic neutral,14,31,7d8,Walk: 40 Ft.,12,16,11,12,10,14,na,na,na,na,Passive Perception: 12,0.5,na
+Scorpion,Tiny,beast,unaligned,11,1,1d4,Walk: 10 Ft.,2,11,8,1,8,2,na,na,na,na,Blindsight: 10 Ft. | Passive Perception: 9,0.0,na
+Scout,Medium,humanoid,any alignment,13,16,3d8,Walk: 30 Ft.,11,14,12,11,13,11,na,na,na,na,Passive Perception: 15,0.5,na
+Sea Hag,Medium,fey,chaotic evil,14,52,7d8,Walk: 30 Ft. | Swim: 40 Ft.,16,13,16,12,12,13,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 11,2.0,na
+Sea Horse,Tiny,beast,unaligned,11,1,1d4,Swim: 20 Ft.,1,12,8,1,10,2,na,na,na,na,Passive Perception: 10,0.0,na
+Shadow,Medium,undead,chaotic evil,12,16,3d8,Walk: 40 Ft.,6,14,13,6,10,8,Radiant,"Acid | Cold | Fire | Lightning | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Necrotic | Poison,Exhaustion | Frightened | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained,Darkvision: 60 Ft. | Passive Perception: 10,0.5,na
+Shambling Mound,Large,plant,unaligned,15,136,16d10,Walk: 20 Ft. | Swim: 20 Ft.,18,8,16,5,10,5,na,Cold | Fire,Lightning,Blinded | Blinded | Exhaustion,Blindsight: 60 Ft. (Blind Beyond This Radius) | Passive Perception: 10,5.0,na
+Shield Guardian,Large,construct,unaligned,17,142,15d10,Walk: 30 Ft.,18,8,18,7,10,3,na,na,Poison,Charmed | Exhaustion | Frightened | Paralyzed | Poisoned,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 10,7.0,na
+Shrieker,Medium,plant,unaligned,5,13,3d8,Walk: 0 Ft.,1,1,10,1,3,1,na,na,na,Blinded | Blinded | Frightened,Blindsight: 30 Ft. (Blind Beyond This Radius) | Passive Perception: 6,0.0,na
+Silver Dragon Wyrmling,Medium,dragon,lawful good,17,45,6d8,Walk: 30 Ft. | Fly: 60 Ft.,19,10,17,12,11,15,na,na,Cold,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,2.0,na
+Skeleton,Medium,undead,lawful evil,13,13,2d8,Walk: 30 Ft.,10,14,15,6,8,5,Bludgeoning,na,na,Poisoned,Darkvision: 60 Ft. | Passive Perception: 9,0.25,na
+Solar,Large,celestial,lawful good,21,243,18d10,Walk: 50 Ft. | Fly: 150 Ft.,26,22,26,25,25,30,na,"Radiant | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Necrotic | Poison,Charmed | Exhaustion | Frightened | Poisoned,Truesight: 120 Ft. | Passive Perception: 24,21.0,na
+Specter,Medium,undead,chaotic evil,12,22,5d8,Walk: 0 Ft. | Fly: 50 Ft. | Hover: True,1,14,11,10,10,11,na,"Acid | Cold | Fire | Lightning | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Necrotic | Poison,Charmed | Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained | Unconscious,Darkvision: 60 Ft. | Passive Perception: 10,1.0,na
+Spider,Tiny,beast,unaligned,12,1,1d4,Walk: 20 Ft. | Climb: 20 Ft.,2,14,8,1,10,2,na,na,na,na,Darkvision: 30 Ft. | Passive Perception: 12,0.0,na
+Spirit Naga,Large,monstrosity,chaotic evil,15,75,10d10,Walk: 40 Ft.,18,17,14,16,15,16,na,na,Poison,Charmed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 12,8.0,na
+Sprite,Tiny,fey,neutral good,15,2,1d4,Walk: 10 Ft. | Fly: 40 Ft.,3,18,10,14,13,11,na,na,na,na,Passive Perception: 13,0.25,na
+Spy,Medium,humanoid,any alignment,12,27,6d8,Walk: 30 Ft.,10,15,10,12,14,16,na,na,na,na,Passive Perception: 16,1.0,na
+Steam Mephit,Small,elemental,neutral evil,10,21,6d6,Walk: 30 Ft. | Fly: 30 Ft.,5,11,10,11,10,12,na,na,Fire | Poison,Poisoned,Darkvision: 60 Ft. | Passive Perception: 10,0.25,na
+Stirge,Tiny,beast,unaligned,14,2,1d4,Walk: 10 Ft. | Fly: 40 Ft.,4,16,11,2,8,6,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 9,0.125,na
+Stone Giant,Huge,giant,neutral,17,126,11d12,Walk: 40 Ft.,23,15,20,10,12,9,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,7.0,na
+Stone Golem,Large,construct,unaligned,17,178,17d10,Walk: 30 Ft.,22,9,20,3,11,1,na,na,"Poison | Psychic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Adamantine",Charmed | Exhaustion | Frightened | Paralyzed | Petrified | Poisoned,Darkvision: 120 Ft. | Passive Perception: 10,10.0,na
+Storm Giant,Huge,giant,chaotic good,16,230,20d12,Walk: 50 Ft. | Swim: 50 Ft.,29,14,20,16,18,18,na,Cold,Lightning | Thunder,na,Passive Perception: 19,13.0,na
+Succubus/Incubus,Medium,fiend,neutral evil,15,66,12d8,Walk: 30 Ft. | Fly: 60 Ft.,8,17,13,15,12,20,na,"Cold | Fire | Lightning | Poison | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,na,Darkvision: 60 Ft. | Passive Perception: 15,4.0,na
+Swarm of Bats,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 0 Ft. | Fly: 30 Ft.,5,15,10,2,12,4,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 60 Ft. | Passive Perception: 11,0.25,na
+Swarm of Beetles,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 20 Ft. | Burrow: 5 Ft. | Climb: 20 Ft.,3,13,10,1,7,1,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 8,0.5,na
+Swarm of Centipedes,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 20 Ft. | Climb: 20 Ft.,3,13,10,1,7,1,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 8,0.5,na
+Swarm of Insects,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 20 Ft. | Climb: 20 Ft.,3,13,10,1,7,1,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 8,0.5,na
+Swarm of Poisonous Snakes,Medium,swarm of Tiny beasts,unaligned,14,36,8d8,Walk: 30 Ft. | Swim: 30 Ft.,8,18,11,1,10,3,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 10,2.0,na
+Swarm of Quippers,Medium,swarm of Tiny beasts,unaligned,13,28,8d8,Walk: 0 Ft. | Swim: 40 Ft.,13,16,9,1,7,2,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Darkvision: 60 Ft. | Passive Perception: 8,1.0,na
+Swarm of Rats,Medium,swarm of Tiny beasts,unaligned,10,24,7d8,Walk: 30 Ft.,9,11,9,2,10,3,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Darkvision: 30 Ft. | Passive Perception: 10,0.25,na
+Swarm of Ravens,Medium,swarm of Tiny beasts,unaligned,12,24,7d8,Walk: 10 Ft. | Fly: 50 Ft.,6,14,8,3,12,6,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Passive Perception: 15,0.25,na
+Swarm of Spiders,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 20 Ft. | Climb: 20 Ft.,3,13,10,1,7,1,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 8,0.5,na
+Swarm of Wasps,Medium,swarm of Tiny beasts,unaligned,12,22,5d8,Walk: 5 Ft. | Fly: 30 Ft.,3,13,10,1,7,1,na,Bludgeoning | Piercing | Slashing,na,Charmed | Frightened | Grappled | Paralyzed | Petrified | Prone | Restrained | Stunned,Blindsight: 10 Ft. | Passive Perception: 8,0.5,na
+Tarrasque,Gargantuan,monstrosity,unaligned,25,676,33d20,Walk: 40 Ft.,30,11,30,3,11,11,na,na,"Fire | Poison | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Charmed | Frightened | Paralyzed | Poisoned,Blindsight: 120 Ft. | Passive Perception: 10,30.0,na
+Thug,Medium,humanoid,any non-good alignment,11,32,5d8,Walk: 30 Ft.,15,11,14,10,10,11,na,na,na,na,Passive Perception: 10,0.5,na
+Tiger,Large,beast,unaligned,12,37,5d10,Walk: 40 Ft.,17,15,14,3,12,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 13,1.0,na
+Treant,Huge,plant,chaotic good,16,138,12d12,Walk: 30 Ft.,23,8,21,12,16,12,Fire,Bludgeoning | Piercing,na,na,Passive Perception: 13,9.0,na
+Tribal Warrior,Medium,humanoid,any alignment,12,11,2d8,Walk: 30 Ft.,13,11,12,8,11,8,na,na,na,na,Passive Perception: 10,0.125,na
+Triceratops,Huge,beast,unaligned,13,95,10d12,Walk: 50 Ft.,22,9,17,2,11,5,na,na,na,na,Passive Perception: 10,5.0,na
+Troll,Large,giant,chaotic evil,15,84,8d10,Walk: 30 Ft.,18,13,20,7,9,7,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 12,5.0,na
+Tyrannosaurus Rex,Huge,beast,unaligned,13,136,13d12,Walk: 50 Ft.,25,10,19,2,12,9,na,na,na,na,Passive Perception: 14,8.0,na
+Unicorn,Large,celestial,lawful good,12,67,9d10,Walk: 50 Ft.,18,14,15,11,17,16,na,na,Poison,Charmed | Paralyzed | Poisoned,Darkvision: 60 Ft. | Passive Perception: 13,5.0,na
+Vampire,Medium,undead,lawful evil,16,144,17d8,Walk: 30 Ft.,18,18,18,17,15,18,na,"Necrotic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,na,Darkvision: 120 Ft. | Passive Perception: 17,13.0,na
+Vampire Spawn,Medium,undead,neutral evil,15,82,11d8,Walk: 30 Ft.,16,16,16,11,10,12,na,"Necrotic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",na,na,Darkvision: 60 Ft. | Passive Perception: 13,5.0,na
+Veteran,Medium,humanoid,any alignment,17,58,9d8,Walk: 30 Ft.,16,13,14,10,11,10,na,na,na,na,Passive Perception: 12,3.0,na
+Violet Fungus,Medium,plant,unaligned,5,18,4d8,Walk: 5 Ft.,3,1,10,1,3,1,na,na,na,Blinded | Blinded | Frightened,Blindsight: 30 Ft. (Blind Beyond This Radius) | Passive Perception: 6,0.25,na
+Vrock,Large,fiend,chaotic evil,15,104,11d10,Walk: 40 Ft. | Fly: 60 Ft.,17,15,18,8,13,8,na,"Cold | Fire | Lightning | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Poisoned,Darkvision: 120 Ft. | Passive Perception: 11,6.0,na
+Vulture,Medium,beast,unaligned,10,5,1d8,Walk: 10 Ft. | Fly: 50 Ft.,7,10,13,2,12,4,na,na,na,na,Passive Perception: 13,0.0,na
+Warhorse,Large,beast,unaligned,11,19,3d10,Walk: 60 Ft.,18,12,13,2,12,7,na,na,na,na,Passive Perception: 11,0.5,na
+Warhorse Skeleton,Large,undead,lawful evil,13,22,3d10,Walk: 60 Ft.,18,12,15,2,8,5,Bludgeoning,na,Poison,Exhaustion | Poisoned,Darkvision: 60 Ft. | Passive Perception: 9,0.5,na
+Water Elemental,Large,elemental,neutral,14,114,12d10,Walk: 30 Ft. | Swim: 90 Ft.,18,14,18,5,10,8,na,"Acid | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Poison,Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained | Unconscious,Darkvision: 60 Ft. | Passive Perception: 10,5.0,na
+Weasel,Tiny,beast,unaligned,13,1,1d4,Walk: 30 Ft.,3,16,8,2,12,3,na,na,na,na,Passive Perception: 13,0.0,na
+Werebear,Medium,humanoid,neutral good,10,135,18d8,Walk: 30 Ft.,19,10,17,11,12,12,na,na,"Bludgeoning, Piercing, And Slashing From Nonmagical Attacks Not Made With Silvered Weapons",na,Passive Perception: 17,5.0,Hybrid Speeds: Walk: 40 ft. Climb: 30 ft. | Bear Speeds: Walk: 40 ft. Climb: 30 ft.
+Wereboar,Medium,humanoid,neutral evil,10,78,12d8,Walk: 30 Ft.,17,10,15,10,11,8,na,na,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Arent Silvered",na,Passive Perception: 12,4.0,Boar Speeds: Walk: 40 ft.
+Wererat,Medium,humanoid,lawful evil,12,33,6d8,Walk: 30 Ft.,10,15,12,11,10,8,na,na,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Arent Silvered",na,Darkvision: 60 Ft. (Rat Form Only) | Passive Perception: 12,2.0,na
+Weretiger,Medium,humanoid,neutral,12,120,16d8,Walk: 30 Ft.,17,15,16,10,13,11,na,na,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Arent Silvered",na,Darkvision: 60 Ft. | Passive Perception: 15,4.0,Tiger Speeds: Walk: 40 ft.
+Werewolf,Medium,humanoid,chaotic evil,11,58,9d8,Walk: 30 Ft.,15,13,14,10,11,10,na,na,"Bludgeoning, Piercing, And Slashing Damage From Nonmagical Weapons That Arent Silvered",na,Passive Perception: 14,3.0,Wolf Speeds: Walk: 40 ft.
+White Dragon Wyrmling,Medium,dragon,chaotic evil,16,32,5d8,Walk: 30 Ft. | Burrow: 15 Ft. | Fly: 60 Ft. | Swim: 30 Ft.,14,10,14,5,10,11,na,na,Cold,na,Blindsight: 10 Ft. | Darkvision: 60 Ft. | Passive Perception: 14,2.0,na
+Wight,Medium,undead,neutral evil,14,45,6d8,Walk: 30 Ft.,15,14,16,10,13,15,na,na,"Necrotic | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Poisoned,Darkvision: 60 Ft. | Passive Perception: 13,3.0,na
+Will-o'-Wisp,Tiny,undead,chaotic evil,19,22,9d4,Walk: 0 Ft. | Fly: 50 Ft. | Hover: True,1,28,10,13,14,11,na,"Acid | Cold | Fire | Necrotic | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons",Lightning | Poison,Exhaustion | Grappled | Paralyzed | Poisoned | Prone | Restrained | Unconscious,Darkvision: 120 Ft. | Passive Perception: 12,2.0,na
+Winter Wolf,Large,monstrosity,neutral evil,13,75,10d10,Walk: 50 Ft.,18,13,14,7,12,8,na,na,Cold,na,Passive Perception: 15,3.0,na
+Wolf,Medium,beast,unaligned,13,11,2d8,Walk: 40 Ft.,12,15,12,3,12,6,na,na,na,na,Passive Perception: 13,0.25,na
+Worg,Large,monstrosity,neutral evil,13,26,4d10,Walk: 50 Ft.,16,13,13,7,11,8,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,0.5,na
+Wraith,Medium,undead,neutral evil,13,67,9d8,Walk: 0 Ft. | Fly: 60 Ft. | Hover: True,6,16,16,12,14,15,na,"Acid | Cold | Fire | Lightning | Thunder | Bludgeoning, Piercing, And Slashing From Nonmagical Weapons That Arent Silvered",Necrotic | Poison,Charmed | Exhaustion | Grappled | Paralyzed | Petrified | Poisoned | Prone | Restrained,Darkvision: 60 Ft. | Passive Perception: 12,5.0,na
+Wyvern,Large,dragon,unaligned,13,110,13d10,Walk: 20 Ft. | Fly: 80 Ft.,19,10,16,5,12,6,na,na,na,na,Darkvision: 60 Ft. | Passive Perception: 14,6.0,na
+Xorn,Medium,elemental,neutral,19,73,7d8,Walk: 20 Ft. | Burrow: 20 Ft.,17,10,22,11,10,11,na,Piercing And Slashing From Nonmagical Weapons That Arent Adamantine,na,na,Darkvision: 60 Ft. | Tremorsense: 60 Ft. | Passive Perception: 16,5.0,na
+Young Black Dragon,Large,dragon,chaotic evil,18,127,15d10,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,19,14,17,12,11,15,na,na,Acid,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 16,7.0,na
+Young Blue Dragon,Large,dragon,lawful evil,18,152,16d10,Walk: 40 Ft. | Burrow: 40 Ft. | Fly: 80 Ft.,21,10,19,14,13,17,na,na,Lightning,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 19,9.0,na
+Young Brass Dragon,Large,dragon,chaotic good,17,110,13d10,Walk: 40 Ft. | Burrow: 20 Ft. | Fly: 80 Ft.,19,10,17,12,11,15,na,na,Fire,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 16,6.0,na
+Young Bronze Dragon,Large,dragon,lawful good,18,142,15d10,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,21,10,19,14,13,17,na,na,Lightning,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 17,8.0,na
+Young Copper Dragon,Large,dragon,chaotic good,17,119,14d10,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,19,12,17,16,13,15,na,na,Acid,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 17,7.0,na
+Young Gold Dragon,Large,dragon,lawful good,18,178,17d10,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,23,14,21,16,13,20,na,na,Fire,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 19,10.0,na
+Young Green Dragon,Large,dragon,lawful evil,18,136,16d10,Walk: 40 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,19,12,17,16,13,15,na,na,Poison,Poisoned,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 17,8.0,na
+Young Red Dragon,Large,dragon,chaotic evil,18,178,17d10,Walk: 40 Ft. | Climb: 40 Ft. | Fly: 80 Ft.,23,10,21,14,11,19,na,na,Fire,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 18,10.0,na
+Young Silver Dragon,Large,dragon,lawful good,18,168,16d10,Walk: 40 Ft. | Fly: 80 Ft.,23,10,21,14,11,19,na,na,Cold,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 18,9.0,na
+Young White Dragon,Large,dragon,chaotic evil,17,133,14d10,Walk: 40 Ft. | Burrow: 20 Ft. | Fly: 80 Ft. | Swim: 40 Ft.,18,10,18,6,11,12,na,na,Cold,na,Blindsight: 30 Ft. | Darkvision: 120 Ft. | Passive Perception: 16,6.0,na
+Zombie,Medium,undead,neutral evil,8,22,3d8,Walk: 20 Ft.,13,6,16,3,6,5,na,na,na,Poisoned,Darkvision: 60 Ft. | Passive Perception: 8,0.25,na
